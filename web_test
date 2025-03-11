@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello to the world</title>
+</head>
+<body>
+<ol>
+    <li>1. What is HTML</li>
+    <li>2. How to build HTML</li>
+    <li>3. From what sourch you can learn</li>
+</ol>
+
+<h1>HTML </h1>
+Hypertext Markup Language (HTML) is the
+<p style="margin-top:400px;">standard markup language for creating</p> 
+<strong><u><h1>web</h1></u> pages</strong> and web applications.
+also here i provide a link as a test <a href="https://opentutorials.org/course/3084/18407" target="_blank" title="hi
+">
+this </a> is image from nasa. <img src="nasa-n463SoeSiVY-unsplash.jpg" width="minimum">
+</body>
+</html>
